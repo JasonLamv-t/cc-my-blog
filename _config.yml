@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: CC JasonLamv-t
+subtitle: 'JasonLam''s spaceship'
+description: 'A personal blog site'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: Jason Lam
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -18,7 +18,7 @@ permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
-  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+  trailing_html: false # Set to false to remove trailing '.html' from permalinks
 
 # Directory
 source_dir: source
@@ -46,10 +46,10 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: true
+  auto_detect: false
   tab_replace: ''
   wrap: true
-  hljs: true
+  hljs: false
 prismjs:
   enable: false
   preprocess: true
@@ -104,14 +104,13 @@ theme: zhaoo
 deploy:
   type: ''
 
-# Other
-## Top search
+# Plugin
+## SearchBar
 search:
-  path: /search.xml  # 索引生成路径（需要设置绝对路径，否则二级页面读不到）
-  field: post  # post page all
-  format: html  # 只支持 html 类型
-  content: true  # 是否包含正文内容
-## LaTex
-mathjax:
-  inlineQuote: ['']
-  blockQuote: ['MATHJAX-SSR-2']
+  path: /search.xml
+  field: post
+  format: html
+  content: true
+## Katex
+pandoc:
+  mathEngine: katex

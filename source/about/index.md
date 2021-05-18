@@ -1,4 +1,5 @@
 ---
-title: about
-date: 2021-05-09 05:46:49
+title: 关于
+type: 'about'
+layout: 'about'
 ---
