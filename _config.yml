@@ -102,7 +102,11 @@ theme: zhaoo
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: sftp
+  host: jasonlam.cc
+  user: root
+  remotePath: /usr/share/nginx/cc-my-blog
+  privateKey: /Users/linjiaxiang/.ssh/jasonlam
 
 # Plugin
 ## SearchBar
