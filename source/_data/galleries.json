@@ -1,34 +1,24 @@
-[{
-  "name": "colorful",
-  "cover": "/images/theme/post-image.jpg",
-  "description": "君未看花时，花与君同寂；君来看花日，花色一时明。",
-  "photos": [
-    "/images/theme/post-image.jpg",
-    "/images/theme/post-image.jpg",
-    "/images/theme/post-image.jpg",
-    "/images/theme/post-image.jpg",
-    "/images/theme/post-image.jpg"
-  ]
-}, {
-  "name": "记事",
-  "cover": "/images/theme/post-image.jpg",
-  "description": "翻开随身携带的记事本，写着许多事都是关于你。",
-  "photos": [
-    "/images/theme/post-image.jpg",
-    "/images/theme/post-image.jpg",
-    "/images/theme/post-image.jpg",
-    "/images/theme/post-image.jpg",
-    "/images/theme/post-image.jpg"
-  ]
-}, {
-  "name": "深圳日记",
-  "cover": "/images/theme/post-image.jpg",
-  "description": "斑马斑马，你不要睡着啦，我只是个匆忙的旅人啊。",
-  "photos": [
-    "/images/theme/post-image.jpg",
-    "/images/theme/post-image.jpg",
-    "/images/theme/post-image.jpg",
-    "/images/theme/post-image.jpg",
-    "/images/theme/post-image.jpg"
-  ]
-}]
+[
+  {
+    "name": "深圳日记",
+    "cover": "/images/galleries/shenzhen/IMG_0.jpeg",
+    "description": "不要沉沦",
+    "photos": [
+      "/images/galleries/shenzhen/IMG_0.jpeg",
+      "/images/galleries/shenzhen/IMG_1.JPG",
+      "/images/galleries/shenzhen/IMG_2.JPG",
+      "/images/galleries/shenzhen/IMG_3.jpeg",
+      "/images/galleries/shenzhen/IMG_4.jpeg",
+      "/images/galleries/shenzhen/IMG_5.jpeg",
+      "/images/galleries/shenzhen/IMG_6.jpeg",
+      "/images/galleries/shenzhen/IMG_7.PNG",
+      "/images/galleries/shenzhen/IMG_8.JPG",
+      "/images/galleries/shenzhen/IMG_9.jpeg",
+      "/images/galleries/shenzhen/IMG_10.jpeg",
+      "/images/galleries/shenzhen/IMG_11.jpeg",
+      "/images/galleries/shenzhen/IMG_12.JPG",
+      "/images/galleries/shenzhen/IMG_13.jpeg",
+      "/images/galleries/shenzhen/IMG_14.jpeg"
+    ]
+  }
+]
