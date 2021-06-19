@@ -1,6 +1,8 @@
 ---
 title: WebMonitor-CLI Node Commander命令行工具实战
 date: 2021-06-16 11:39:32
+categories:
+- 项目详述
 tags: [Node]
 keywords: node, commander, inquirer, chalk, Command line tool 
 ---
