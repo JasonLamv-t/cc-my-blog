@@ -1,11 +1,12 @@
 ---
 title: Serverless-Devs实践-基于 GhostScript 的 PDF 转 JPG
-date: 2021-06-16 11:39:32
+date: 2021-10-23
 categories:
 - 实践指南
 tags: [Node, ServerlessDevs, Journal]
 keywords: Serverless, Serverless-Devs, aliyun, PDF2IMG
 ---
+
 # Serverless-Devs实践-基于 GhostScript 的 PDF 转 JPG
 
 该项目是基于GhostScript的PDF转JPG工具，借助[Serverless-Devs](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/readme_zh.md)工具进行依赖安装并部署到阿里云函数计算，是一个serverless的简单示例。

@@ -1,11 +1,12 @@
 ---
 title: Serverless-Devs实践-基于Node的前端CICD
-date: 2021-06-16 11:39:32
+date: 2021-10-23
 categories:
 - 实践指南
 tags: [Node, ServerlessDevs, Journal]
 keywords: Serverless, Serverless-Devs, aliyun, CI/CD
 ---
+
 # Serverless-Devs实践-基于Node的前端CICD
 
 [Serverless Devs](https://github.com/Serverless-Devs/Serverless-Devs/blob/master/readme_zh.md)是一个开源开放的 Serverless 开发者平台，致力于为开发者提供强大的工具链体系。通过该平台，开发者可以一键体验多云 Serverless 产品，极速部署 Serverless 项目。本文介绍通过Serverless-Devs部署一个前端CICD系统。
