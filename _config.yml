@@ -106,7 +106,7 @@ deploy:
   host: jasonlam.cc
   user: root
   remotePath: /usr/share/nginx/cc-my-blog
-  privateKey: /Users/linjiaxiang/.ssh/jasonlam
+  privateKey: /Users/linjiaxiang/.ssh/hacmini
 
 # Plugin
 ## SearchBar
